@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://freekingdom.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-01-17T07:06:54.206Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://freekingdom.github.io"/>
+    <link rel="self" href="https://freekingdom.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://freekingdom.github.io/images/avatar.png</logo>
+    <icon>https://freekingdom.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[真的能做到两耳不闻窗外事吗]]></title>
+        <id>https://freekingdom.github.io/post/zhen-de-neng-zuo-dao-liang-er-bu-wen-chuang-wai-shi-ma/</id>
+        <link href="https://freekingdom.github.io/post/zhen-de-neng-zuo-dao-liang-er-bu-wen-chuang-wai-shi-ma/">
+        </link>
+        <updated>2023-11-04T04:28:16.000Z</updated>
+        <content type="html"><![CDATA[<p>我并不是一个关心政治的人，不过这个也跟一直以来学习的政治课相关，这些课上学到的都是既定的条条框框，既没有思辨，也没有自己的思考，好像书上的东西天生就是正确的，这些东西让我感到非常的枯燥。加上我们的历史总是逃脱不出造反，建立新的朝廷，没落再造反的轮回，让我对政治的感觉是非常悲观的，它跳不出固有框架。<br>
+但是最近巴以之间的战争让我很有负罪感，那些孩子，那些无辜的百姓，他们也只想有个稳定的生活，但是现实却是充满了这么多的不确定性，连生命都无法得到保障，而我们虽然也会为生活中各种不公平，各种压力而抱怨，但跟他们比起来还是确定的多，大家也都在讨论这件事，但是好像站哪一边都不合适，最终只能化为一句百姓都是无辜的话，在这句话中充满了无力感。作为普通人还有机会参与到政治生活中去吗，除了在社交平台上发表言论我们还能做什么？对战争中死亡的人的同情是不是更多是对战争的恐惧，害怕这一天也会落到我们头上。不过现在的人好像越来越看不到非常远的未来，也不喜欢宏观的事情，努力的过好当下，让自己开开心心的已经耗尽了自己的精力，这样的想法也让我感到憋闷，总觉得人生不应该只是如此。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恶补线性代数]]></title>
+        <id>https://freekingdom.github.io/post/e-bu-xian-xing-dai-shu/</id>
+        <link href="https://freekingdom.github.io/post/e-bu-xian-xing-dai-shu/">
+        </link>
+        <updated>2023-10-20T13:01:13.000Z</updated>
+        <content type="html"><![CDATA[<p>最近这段时间除了工作比较忙，也一直在补线性代数的基础，线性代数没学好，看数值分析的书就像看天书一下。在B站上找了一个讲解线性代数几何意义的视频，之前学线性代数就容易陷入对行列式，矩阵乘法，特征值求解这种代数的运算中，算了半天突然就不明白自己在算什么了。有了几何直观上的了解，对于矩阵向量乘法，矩阵乘法，行列式的几何意义，特征值的几何意义都有了一定的了解，在进行复杂的代数计算之前能够想明白自己在干什么。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多么痛的领悟]]></title>
+        <id>https://freekingdom.github.io/post/duo-me-tong-de-ling-wu/</id>
+        <link href="https://freekingdom.github.io/post/duo-me-tong-de-ling-wu/">
+        </link>
+        <updated>2023-10-08T12:35:26.000Z</updated>
+        <content type="html"><![CDATA[<p>今天在上数值计算课的时候，又深刻的明白了一个道理，在学习的过程中，如果你讨厌一个东西，就像我特别讨厌矩阵乘法，它会成为你继续学习路上的一个拦路虎，越是想偷懒越是学不会，只能下功夫去直面这个问题，才能最终克服它。可惜这个领悟还是晚了点，或者说现在没法偷懒了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆流水账]]></title>
+        <id>https://freekingdom.github.io/post/guo-qing-liu-shui-zhang/</id>
+        <link href="https://freekingdom.github.io/post/guo-qing-liu-shui-zhang/">
+        </link>
+        <updated>2023-10-07T12:35:31.000Z</updated>
+        <content type="html"><![CDATA[<p>国庆休息了9天，差点把写日记这个事抛到九霄云外去了。可见持续输出是一件非常难的事情。<br>
+这个国庆总得来说过得还算充实，朋友送了垒球比赛的票，人生中第一次看垒球比赛，如果不是这样，根本就不会花心思去学这个规则，在看的过程中也不断强化对规则的理解。<br>
+去了宋六陵，爬了诸葛山，宋六陵一直想去，但是我知道跟父母一起不太合适，他们会觉得没什么可看了。陵墓对我总有一种奇怪的吸引力，在陵墓旁边，心会变得特别安静，宋六陵是一个非常适合走路，思考的地方，没什么人，景色也秀丽，走在茶园中，偶尔看到几处考古挖掘的现场，你可以什么都不想，也可以想很多东西。南宋一直以来给人的感觉是孱弱，偏居一隅，割地赔款，文臣势力很大，战斗力薄弱，但是从另一方面来看，宋朝的文化是很开放繁荣的，皇权也没有那么的高度集中，很多创新是要在一个比较开放的氛围中才能产生的。<br>
+当然国庆最重要的还是开始准备开题报告，在这件事上我有点纠结，最开始是想着按照自己的兴趣认真做点研究的，后来又担心不好毕业，想着用项目组的数据套一个算法应用一下，赶紧毕业，在看论文的过程中，我又改变了主意，如果一开始就把格调定的很低，最后做出来的东西只会更差，估计会是自己都不想看，所以还是扎扎实实的啃一些论文，把有借鉴意义的论文源码下载下来，好好研究，不要只停留在最基础的算法表面，深入到细节去学习，我又不傻，别人能写出这种论文，我没道理写不出来啊。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[种地]]></title>
+        <id>https://freekingdom.github.io/post/chong-di/</id>
+        <link href="https://freekingdom.github.io/post/chong-di/">
+        </link>
+        <updated>2023-09-26T14:30:05.000Z</updated>
+        <content type="html"><![CDATA[<p>今天体验了一把农民伯伯的辛劳，在很长一段历史时光中，人类的生活是建立在农业上的，在一本书上看到农业社会的人的寿命比狩猎时期的短了很多，而且狩猎时期的人生活技能更丰富，由于要去各种地方狩猎，见识更多更广，生活也更自由丰富，而农业社会的生活基本上就是面朝黄土背朝天，想要吃上粮食就要在田间不断地劳作，耕地，播种，灌溉，除草，施肥，收割，虽然在这个过程中，也发明了很多辅助的工具，但是人好像就被束缚在这块土地之上了，少了很多的自由与浪漫，多了份踏实与悲苦。<br>
+随着工业的发展，很多大片的土地都实现了机械化作业，但是现在又开始流行自己“种地”，很多住在城市的人都非常向往有一块自己的地，种一些蔬菜，先不论这样种出来的蔬菜是否更加健康营养美味，人们在做这些事的过程中想要得到的是什么，肯定不是为了果腹，如果只是为了想要吃健康有机的食品，也是有很多途径可以购买的。种地代表的是什么？跟大自然的亲近？回归原来简单朴素的生活？亦或是逃离城市生活的压力？可能这些想法都有。现在的种地也没有太大的压力，只是兴之所至而为之，因为我们知道就算种不出什么来也不至于挨饿，所以我们可能享受的是一种从容拥有自己时间的感觉吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读《红楼梦》中的丫鬟]]></title>
+        <id>https://freekingdom.github.io/post/du-lesslesshong-lou-meng-greatergreater-zhong-de-ya-huan/</id>
+        <link href="https://freekingdom.github.io/post/du-lesslesshong-lou-meng-greatergreater-zhong-de-ya-huan/">
+        </link>
+        <updated>2023-09-23T15:48:54.000Z</updated>
+        <content type="html"><![CDATA[<p>看《红楼梦》的过程中，对里面描写的那些丫鬟我总有一种说不出的感觉，当然她们的命运由不得自己，非常可怜。但是她们对一些等级比她们略低的丫鬟，有时候甚至是同级别的丫鬟，讲话都非常的尖酸刻薄，经常说别人勾引宝玉什么的，这些让我读了非常难受，她们不像小姐们，可以看书接受教育，她们生活在赤裸裸的现实世界中，能够倚仗的或许就只有自己的年轻貌美，或周到细致。可能让我难受的地方在于怒其不争，虽然受那套规则的剥削，却又顺从维护那套规则。里面也有几个例外，比如小红和彩云，彩云不像别的人都喜欢宝玉，厌弃贾环，但是她却对贾环很好，让我感觉多了一丝勇敢与反叛。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对音乐欣赏的一些感想]]></title>
+        <id>https://freekingdom.github.io/post/dui-yin-le-xin-shang-de-yi-xie-gan-xiang/</id>
+        <link href="https://freekingdom.github.io/post/dui-yin-le-xin-shang-de-yi-xie-gan-xiang/">
+        </link>
+        <updated>2023-09-20T13:05:15.000Z</updated>
+        <content type="html"><![CDATA[<p>今天忙了一天，晚上看了会叨叨冯讲乐夏3的最后一期改变赛，听他讲改变赛收获不小。音乐有音乐自己的语言，节奏的变化，和弦的转化等等都可以传达出音乐人的意图，当然这种欣赏是有门槛的，需要听者不断地学习。<br>
+有时候会想听音乐不就是图个放松吗，为什么要把自己搞得这么累，当然单纯觉得好听或者不好听也是一种方式，但是这种方式往往只能欣赏到一些比较表层的美，通过学习领域到音乐本身的语言，这种体验我相信可以带来更深层以及更久远的享受，不过这个学习也好难，如果学个乐器什么的会好一些。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读《红楼梦》11-20章]]></title>
+        <id>https://freekingdom.github.io/post/du-lesslesshong-lou-meng-greatergreater-11-20-zhang/</id>
+        <link href="https://freekingdom.github.io/post/du-lesslesshong-lou-meng-greatergreater-11-20-zhang/">
+        </link>
+        <updated>2023-09-18T11:46:39.000Z</updated>
+        <content type="html"><![CDATA[<p>《红楼梦》可以说养活了很多学者，它之所以可以形成红学，是因为文本中有很多值得细细推敲的地方，就像那句话说的假作真时真亦假，虚虚实实，真真假假，让人可以一直去探寻，想到我写的文章，就非常的直白，看完之后也没有必要再读第二遍，像白开水一样没什么余味。<br>
+这星期看了11-20回，也听了刘心武老师讲红楼，他以秦可卿为切入点去做分析，虽然有些听上去有点牵强，不过逻辑上也能自洽，也是一种有趣的研究方法，所以那个时候让这么多人喜欢。<br>
+我自己再读这几章的时候也会有一些疑问，主要是觉得王熙凤是个比较势力的人，如果秦可卿的身世真的这么寒微，她怎么可能跟秦可卿关系如此之好，这个好还不是表面上做出来的好，而是一种惺惺相惜的感觉，在其余人身上我是没有感受到王熙凤这一点的。而且如果说秦可卿和她公公有染的话，她出场的那几回中也看不出有什么悲伤的情绪，还一直强调公婆对自己很好，这难道是反着说的，下人都知道他们的这种关系，她不会觉得很害臊吗，她对这种关系安之如怡，但是为什么会心思郁结而生病呢？<br>
+这几章中，元春省亲是一个大事件，荣国府的富贵荣耀到了一个顶点，之后也就慢慢开始走下坡路了，看到元春走的时候心里也很唏嘘，一早就知道要分离，是不是不如不见，热闹过后的孤独更让人难以忍受。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论预习的重要性]]></title>
+        <id>https://freekingdom.github.io/post/lun-yu-xi-de-chong-yao-xing/</id>
+        <link href="https://freekingdom.github.io/post/lun-yu-xi-de-chong-yao-xing/">
+        </link>
+        <updated>2023-09-16T15:17:17.000Z</updated>
+        <content type="html"><![CDATA[<p>第一次发现上数学课之前预习是多么的重要，如果不预习，直接听老师讲，根本跟不上他的速度，好不容易想明白前面证明的一个方法，后面一大段都听漏了。之前不预习主要还是初高中学的数学太简单基础，方法来来回回也就这么点东西，仗着自己学过奥数，从来不会去主动学习新的内容，这是之前我很大的问题。<br>
+这些年都没怎么好好学过数学，认为自己还喜欢数学，可能只是因为读书那会学这个对我来说最容易，也最可以获得成就感，就觉得自己喜欢这个，现在看来是我把数学看的太简单了，想要学好这个非常痛苦，而且自己的基础也很薄弱，趁着学习数值计算，要把数学分析这一块再好好补补，这个还是非常非常基础，又非常非常重要的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读《飞毡》]]></title>
+        <id>https://freekingdom.github.io/post/du-lesslessfei-zhan-greatergreater/</id>
+        <link href="https://freekingdom.github.io/post/du-lesslessfei-zhan-greatergreater/">
+        </link>
+        <updated>2023-09-14T13:40:26.000Z</updated>
+        <content type="html"><![CDATA[<p>《飞毡》这本书的写法挺特别的，像一条线，一个人物牵出另一个人物，他们之间的关联也不是那么的强烈，千丝万缕，非常细腻。我看了几十页，感觉跟《百年孤独》的感受不太一样，除了写法更细腻之外，看《百年孤独》的时候总是被一种悲伤的情绪所包围，这本书更加的充满生机，对自然，对物件的描写非常温柔，能够让我静下心来去体会万事万物的纹理，每一件事物都有值得细细品味的地方。</p>
+]]></content>
+    </entry>
+</feed>
